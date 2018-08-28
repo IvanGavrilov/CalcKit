@@ -12,7 +12,7 @@ ui:
         #color1: "#0074d9"
         #color2: "#001f3f"
         color1: "#0066bf"
-        color2: "#002f5d"
+        color2: "#0057a5"
         trianglify: true
 
 # List of additional links on the right of the top menu
