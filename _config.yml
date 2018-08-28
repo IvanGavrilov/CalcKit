@@ -17,7 +17,5 @@ ui:
 # List of additional links on the right of the top menu
 links:
     header:
-      - title: Meet CalcKit
-        url: https://calckit.io
       - title: Open CalcKit
         url: https://app.calckit.io
