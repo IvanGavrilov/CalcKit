@@ -3,3 +3,9 @@ remote_theme: mistic100/jekyll-bootstrap-doc
 
 # Project Name
 name: CalcKit
+
+# Header
+header:
+  color1: "#080331"
+  color2: "#673051"
+  trianglify: true
