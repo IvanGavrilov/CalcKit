@@ -18,3 +18,8 @@ ui:
 headerLinks:
   - title: Open CalcKit
     url: https://app.calckit.io
+
+links:
+    header:
+      - title: Open CalcKit
+        url: https://app.calckit.io
