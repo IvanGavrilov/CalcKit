@@ -8,7 +8,7 @@ customNavBar: false
 ui:
     header:
         color1: "#000000"
-        color2: "#673051"
+        color2: "#ffffff"
         trianglify: true
 
 # List of additional links on the right of the top menu
