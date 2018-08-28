@@ -1,6 +1,6 @@
 ---
 layout: page
-homepage: true
+homepage: false
 title: "CalcKit"
 description: "All-in-One Calculator"
 ---
