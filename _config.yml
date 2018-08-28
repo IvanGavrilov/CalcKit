@@ -8,10 +8,11 @@ name: CalcKit
 customNavBar: false
 
 # Header
-header:
-  color1: "#080331"
-  color2: "#673051"
-  trianglify: true
+ui:
+    header:
+        color1: "#080331"
+        color2: "#673051"
+        trianglify: true
 
 # List of additional links on the right of the top menu
 headerLinks:
