@@ -10,7 +10,7 @@ customNavBar: false
 # Header
 ui:
     header:
-        color1: "#080331"
+        color1: "#000000"
         color2: "#673051"
         trianglify: true
 
