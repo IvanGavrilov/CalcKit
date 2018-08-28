@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 homepage: true
 title: CalcKit
 description: CalcKit all in one calculator
