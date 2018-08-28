@@ -2,7 +2,7 @@
 remote_theme: allejo/jekyll-docs-theme
 
 # Project Name
-name: "CalcKit: All-in-One Calculator"
+name: CalcKit: All-in-One Calculator
 
 # Set this to true to replace the generated header navbar by _includes/navbar.html
 customNavBar: false
