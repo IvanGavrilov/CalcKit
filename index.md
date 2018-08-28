@@ -1,8 +1,8 @@
 ---
 layout: default
 homepage: true
-title: CalcKit: All-in-One Calculator
-description: CalcKit all in one calculator :)
+title: CalcKit
+description: CalcKit all in one calculator
 ---
 
 # Welcome to CalcKit
