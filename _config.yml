@@ -2,7 +2,7 @@
 remote_theme: allejo/jekyll-docs-theme
 
 # Set this to true to replace the generated header navbar by _includes/navbar.html
-customNavBar: false
+customNavBar: ture
 
 # Header
 ui:
