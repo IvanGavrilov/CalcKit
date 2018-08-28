@@ -1,3 +1,8 @@
+---
+layout: page
+homepage: true
+---
+
 # [CalcKit](https://calckit.io)
 
 CalcKit is a calculations platform that features over 120 calculators & converters ranging from mathematics, electronics, physics to finance and more, while also giving you the possibility to create your own calculators and converters, either from scratch or by copying and customizing any of the 120+ pre-built tools.
@@ -14,3 +19,5 @@ Since CalcKit is not fully open-source project, this account serves as a place f
 :bird: [twitter.com/calckit](https://twitter.com/calckit)
 
 :globe_with_meridians: [app.calckit.io](https://app.calckit.io)
+
+
