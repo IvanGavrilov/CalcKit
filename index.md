@@ -1,6 +1,5 @@
 ---
 layout: page
-homepage: true
 ---
 
 # [CalcKit](https://calckit.io)
