@@ -1,7 +1,7 @@
 # Theme
 remote_theme: allejo/jekyll-docs-theme
 
-name: CalcKit
+name: CalcKit Docs
 
 # Set this to true to replace the generated header navbar by _includes/navbar.html
 #customNavBar: true
