@@ -19,3 +19,7 @@ links:
     header:
       - title: Open CalcKit
         url: https://app.calckit.io
+
+project:
+    version: 0.1.0
+    download_url: https://github.com/allejo/jekyll-docs-theme/releases
