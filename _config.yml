@@ -9,8 +9,8 @@ name: CalcKit Docs
 # Header
 ui:
     header:
-        color1: "#424242"
-        color2: "#14a7c9"
+        color1: "#0074d9"
+        color2: "#001f3f"
         trianglify: true
 
 # List of additional links on the right of the top menu
