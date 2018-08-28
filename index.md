@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# [CalcKit](https://calckit.io)
+# CalcKit: All-in-One Calculator
 
 CalcKit is a calculations platform that features over 120 calculators & converters ranging from mathematics, electronics, physics to finance and more, while also giving you the possibility to create your own calculators and converters, either from scratch or by copying and customizing any of the 120+ pre-built tools.
 
