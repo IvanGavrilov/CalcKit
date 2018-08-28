@@ -1,1 +1,5 @@
-remote_theme: allejo/jekyll-docs-theme
+# Theme
+remote_theme: mistic100/jekyll-bootstrap-doc
+
+# Project Name
+name: CalcKit
