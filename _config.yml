@@ -1,10 +1,8 @@
 # Theme
 remote_theme: mistic100/jekyll-bootstrap-doc
 
-#remote_theme: allejo/jekyll-docs-theme
-
 # Set this to true to replace the generated header navbar by _includes/navbar.html
-customNavBar: ture
+customNavBar: true
 
 # Header
 ui:
