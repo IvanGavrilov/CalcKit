@@ -1,7 +1,7 @@
 ---
 layout: page
 homepage: false
-title: CalcKit
+title: CalcKit: All-in-one Calculator
 description: CalcKit all in one calculator
 ---
 
