@@ -1,6 +1,7 @@
 ---
 layout: page
 homepage: false
+isHome: true
 title: "CalcKit: All-in-One Calculator"
 description: "Free, lightweight and easy to use all-in-one calculator and unit converter"
 ---
