@@ -17,7 +17,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-#### Basic Buttons
+## Basic Buttons
 
 `0` `1` `2` `3` `4` `5` `6` `7` `8` `9` – Standard Numbers
 
@@ -35,7 +35,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-#### Orange Buttons
+## Orange Buttons
 
 `Settings` `2nd Function` `History` `C` `DEL`
 
@@ -51,7 +51,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-#### Memory Buttons & Trigonometric Unit
+## Memory Buttons & Trigonometric Unit
 
 `DEG` `RAD` `GRAD` – Change the trigonometric unit (degree/radian/gradian)
 
