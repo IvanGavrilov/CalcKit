@@ -171,7 +171,7 @@ CalcKit's Scientific Calculator gives you the possibility to customize the two t
 
 By clicking the **`⋮`** button and then clicking `Edit Buttons` you will access the menu below, where you are able to change each button and it's 2nd function.
 
-![Edit Buttons 600x450](https://static.docsapp.io/upload/286/upload-1534849317787.png)
+![Edit Buttons](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/edit_buttons.png)
 
 **1.** Select the button that you want to edit
 
