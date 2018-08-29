@@ -17,7 +17,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-## Basic Buttons
+### Basic Buttons
 
 `0` `1` `2` `3` `4` `5` `6` `7` `8` `9` – Standard Numbers
 
@@ -35,7 +35,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-## Orange Buttons
+### Orange Buttons
 
 `Settings` `2nd Function` `History` `C` `DEL`
 
@@ -51,7 +51,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-## Memory Buttons & Trigonometric Unit
+### Memory Buttons & Trigonometric Unit
 
 `DEG` `RAD` `GRAD` – Change the trigonometric unit (degree/radian/gradian)
 
@@ -65,7 +65,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-#### Programmer Buttons
+### Programmer Buttons
 
 `0b` `0o` `0x` – Binary / Octal / Hex Prefixes
 
@@ -87,7 +87,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-#### Built-in Functions & Constants
+### Built-in Functions & Constants
 
 **Constants**
 
@@ -162,3 +162,45 @@ Inverse hyperbolic functions (sine, cosine, tangent, cosecant, secant, cotangent
 `im` - Get the imaginary part of a complex number
 
 `re` - Get the real part of a complex number
+
+# Edit Buttons
+
+---
+
+CalcKit's Scientific Calculator gives you the possibility to customize the two top rows (portrait) or left rows (landscape). 
+
+By clicking the **`⋮`** button and then clicking `Edit Buttons` you will access the menu below, where you are able to change each button and it's 2nd function.
+
+![Edit Buttons 600x450](https://static.docsapp.io/upload/286/upload-1534849317787.png)
+
+**1.** Select the button that you want to edit
+
+**2.** Select between `Built-in` and `Custom` button type
+
+**3.** If you select `Built-in` you will see a drop-down list with pre-defined functions/constants that you can choose from.
+
+**4.** If you select `Custom` you will see two input fields `Name` `=` `Equation` where you can enter your custom function or constant.
+
+Here are some examples for Custom buttons:
+
+**Constants**
+
+**`Name`** `=` **`Value`**
+
+`pi` `=` `3.1415926535`
+
+`phi` `=` `1.6180339887`
+
+`e` `=` `2.7182818284`
+
+**Functions**
+
+**`Name`** `=` **`Formula`**
+
+`pow(x, y)` `=` `x ^ y`
+
+`Fg(m)` `=` `m * 9.80665`
+
+`log3(x)` `=` `log(x) / log(3)`
+
+After you finish editing the button, just click `APPLY` and the configuration will be saved right away.
