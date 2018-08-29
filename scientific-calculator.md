@@ -51,7 +51,7 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-### Memory Buttons & Trigonometric Unit
+### Memory & Trigonometric Unit
 
 `DEG` `RAD` `GRAD` – Change the trigonometric unit (degree/radian/gradian)
 
