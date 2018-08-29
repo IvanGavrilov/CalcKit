@@ -1,5 +1,6 @@
 # Theme
-remote_theme: allejo/jekyll-docs-theme
+#remote_theme: allejo/jekyll-docs-theme
+remote_theme: IvanGavrilov/jekyll-docs-theme
 
 name: CalcKit Docs
 
