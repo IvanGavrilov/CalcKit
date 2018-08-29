@@ -17,10 +17,6 @@ Equations in the calculator can be entered using the built-in keyboard or by cli
 
 ---
 
-# Buttons & Functions
-
----
-
 #### Basic Buttons
 
 `0` `1` `2` `3` `4` `5` `6` `7` `8` `9` – Standard Numbers
