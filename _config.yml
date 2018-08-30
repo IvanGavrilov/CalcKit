@@ -7,8 +7,6 @@ name: CalcKit Docs
 # Header
 ui:
     header:
-        #color1: "#0074d9"
-        #color2: "#001f3f"
         color1: "#0066bf"
         color2: "#0057a5"
         trianglify: true
