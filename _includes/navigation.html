@@ -11,12 +11,30 @@
         </div>
         <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
             <ul class="nav navbar-nav">
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Main Features <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li {% if page.title == 'Scientific Calculator' %}class="active"{% endif %}>
+                            <a href="scientific-calculator.html">Scientific Calculator</a>
+                        </li>
+                        <li {% if page.title == 'Math Console' %}class="active"{% endif %}>
+                            <a href="{{ site.github.url | replace: 'http://', '//' }}/math-console.html">Math Console</a>
+                        </li>
+                        <li {% if page.title == 'Math Grapher' %}class="active"{% endif %}>
+                            <a href="{{ site.github.url | replace: 'http://', '//' }}/math-grapher.html">Math Grapher</a>
+                        </li>
+                    </ul>
+                </li>
+                
                 {% assign sorted_pages = site.pages | sort: "name" %}
                 {% for p in sorted_pages %}
                     {% if p.isHome != true and p.hide != true and p.title !=  %}
+                        
                         <li {% if page.title == p.title %}class="active"{% endif %}>
                             <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
                         </li>
+                
                     {% endif %}
                 {% endfor %}
             </ul>
