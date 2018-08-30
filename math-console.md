@@ -1,4 +1,11 @@
-# Math Console
+---
+layout: page
+homepage: false
+isHome: false
+title: "Math Console"
+---
+
+# Introduction
 
 ---
 
