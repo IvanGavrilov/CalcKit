@@ -25,9 +25,9 @@ Each calculator is built using multiple required and optional components.
 
 The only required components are `Icon`, `Title` and `Variables`.
 
----
-
 ## Icon / Title / Category / Tags
+
+---
 
 ![Icon Title Category Tags](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/icon_title_category_tags.png)
 
