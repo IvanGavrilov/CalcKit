@@ -27,4 +27,8 @@ Optional: `Category` `Header` `Footer` `Image` `Image Description` `Options`
 
 ---
 
-### `Icon` and `Title`
+### Icon and Title
+
+**Icon** and **Title** for the Converter.
+
+The **Icon** can be changed by simply clicking on it. After you click it, a window will show up where you'll see a list with pre-made icons to choose from and also a field where you can type URL to your own icon.
