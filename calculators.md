@@ -19,18 +19,24 @@ To create a new calculator, open the `My Tools` folder, click the `⋮` and then
 
 ---
 
-Each calculator is built using multiple required and optional components:
+Each calculator is built using multiple required and optional components.
 
-Required: `Icon` `Title` `Variables`
+`Icon` `Title` `Category` `Tags` `Header` `Footer` `Image` `Image Description` `Options` `Variables`
 
-Optional: `Category` `Header` `Footer` `Image` `Image Description` `Options`
+The only required components are `Icon`, `Title` and `Variables`.
 
 ---
 
-### Icon / Title / Category
+### Icon / Title / Category / Tags
 
-**Icon**, **Title** and **Category** for the Calculator.
+![Icon Title Category Tags](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/icon_title_category_tags.png)
 
-The **Icon** can be changed by simply clicking on it. After you click it, a window will show up where you'll see a list with pre-made icons to choose from and also a field where you can type URL to your own icon.
+The **Title** and the **Icon** are self-explanatory.
 
-The **Category** is mainly just a visual enhancement for your Calculator, visible only 
+The **Icon** can be changed by simply clicking on it. After you click it, a window will pop-up where you'll see a list with pre-made icons to choose from and also a field where you can type URL to your own icon.
+
+The **Category** could be useful when you add multiple calculators from different branches in the same folder and you want to know to which branche each of them belongs.
+
+Take for example our [Library](https://app.calckit.io/library)... There are over one-hundred calculators in there, for mathematics, electronics, converters and so on. To find all electronics calculators you would, for example, type `Electronics` in the Search Bar and only the electronics tools will be displayed.
+
+The **Tags** are also used for searching, but *(unlike the Title and Category)* they are not visible to the user. Using a correct combination of tags you can create some very nice search possibilities. For example, in the `Length` converter we have added the units `km` `m` `cm` etc. in the tags and we've also included the word `to`. Now, when you open the [Library](https://app.calckit.io/library) and search for `km to cm` the `Length` converter will be right there on top.
