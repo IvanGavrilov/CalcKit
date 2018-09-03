@@ -43,4 +43,5 @@ The **Tags** *(separated by space)* are also used for searching, but *(unlike th
 
 ---
 
-...
+![Header Footer](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/header_footer.png)
+
