@@ -15,6 +15,8 @@ Below I'll try to explain all components of the **calculators** and how to build
 
 To create a new calculator, open the `My Tools` folder, click the `⋮` and then click [`Create New Calculator`](https://app.calckit.io/create/converter)
 
+# Components
+
 ---
 
 Each calculator is built using multiple required and optional components:
@@ -25,3 +27,4 @@ Optional: `Category` `Header` `Footer` `Image` `Image Description` `Options`
 
 ---
 
+### `Icon` and `Title`
