@@ -51,4 +51,6 @@ The **Footer** is a text box displayed on the bottom of your calculator, below t
 
 Both **Header** and **Footer** are optional fields. If you leave them empty, they will automatically be hidden in your calcualator.
 
-Both fields can contain one or multiple lines of text. It is also possible to style the text *(as you can see on the image above)* making portions of it `**bold**`, `//italic//` or `__underlined__`. You can also mix them `**//__together__//**`.
+Both fields can contain one or multiple lines of text.
+
+You can also apply some basic styling on the text *(as you can see on the image above)* making portions of it `**bold**`, `//italic//` or `__underlined__`, or also mixing them `**//__together__//**`.
