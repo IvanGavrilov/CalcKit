@@ -77,3 +77,15 @@ Same as the Header and Footer, the Image Description can have one or multiple li
 *Note: If you do not include an image, the image description will be automatically hidden, regardless of what you have written in it.*
 
 If you include an image, but you leave the image description field empty, the image will take the full width of the page *(see picture right)*. Otherwise, if you write something in the image desciption, the image and it's description will be displayed in the same line, with the image taking around 60% and the description around 40% of the page width *(see picture left)*.
+
+## Variables
+
+---
+
+...
+
+## Options
+
+---
+
+...
