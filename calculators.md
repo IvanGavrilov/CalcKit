@@ -45,3 +45,10 @@ The **Tags** *(separated by space)* are also used for searching, but *(unlike th
 
 ![Header Footer](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/header_footer.png)
 
+The **Header** is a text box displayed on the top of your calculator, above the image and variables.
+
+The **Footer** is a text box displayed on the bottom of your calculator, below the variables.
+
+Both **Header** and **Footer** are optional fields. If you leave them empty, they will automatically be hidden in your calcualator.
+
+Both fields can contain one or multiple lines of text. It is also possible to style the text *(as you can see on the image above)* making portions of it `**bold**`, `//italic//` or `__underlined__`. You can also mix them `**//__together__//**`.
