@@ -61,7 +61,8 @@ You can also apply some basic styling on the text *(as you can see on the image 
 
 ![Image Description](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/image_description.png)
 
-CalcKit gives you the possibility to insert an **Image** in your calculator. If included, the Image is displayed between the Header and the Variables.
+CalcKit gives you the possibility to insert an **Image** in your calculator.  
+If included, the Image is displayed between the Header and the Variables.
 
 Because we do not host/store user files on our servers, you'll need to upload the **Image** somewhere else ([Imgur](https://imgur.com/upload)/[PostImage](https://postimages.org/)/...) and only type the URL pointing to the image.
 
@@ -75,4 +76,4 @@ Same as the Header and Footer, the Image Description can have one or multiple li
 
 *Note: If you do not include an image, the image description will be automatically hidden, regardless of what you have written in it.*
 
-If you include an image, but you leave the image description field empty, the image will take the full width of the page. Otherwise, if you write something in the image desciption, the image and it's description will be displayed in the same line, with the image taking around 60% and the description around 40% of the page width.
+If you include an image, but you leave the image description field empty, the image will take the full width of the page *(see picture right)*. Otherwise, if you write something in the image desciption, the image and it's description will be displayed in the same line, with the image taking around 60% and the description around 40% of the page width *(see picture left)*.
