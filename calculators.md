@@ -59,19 +59,18 @@ You can also apply some basic styling on the text *(as you can see on the image 
 
 ---
 
-CalcKit gives you the possibility to insert an image in your calculator.  
-If included, the Image is displayed between the Header and the Variables.
+CalcKit gives you the possibility to insert an **Image** in your calculator. If included, the Image is displayed between the Header and the Variables.
 
-Because we do not host/store user files on our servers, you'll need to upload the image somewhere else (Imgur/PostImage/...) and only type the URL pointing to the image.
+Because we do not host/store user files on our servers, you'll need to upload the **Image** somewhere else ([Imgur](https://imgur.com/upload)/[PostImage](https://postimages.org/)/...) and only type the URL pointing to the image.
 
-As you might know, CalcKit has two themes, light and dark, so if you are using a transparent (png/svg) image, you might want to include two versions of it. You can do that by filling the two fields: `Image URL Dark` for the dark theme and `Image URL Light` for the light theme.
+As you might know, CalcKit has two themes, light and dark, so if you are using a transparent image, you might want to include two versions of it. You can do that by filling the two fields: `Image URL Dark` for the dark theme and `Image URL Light` for the light theme.
 
 If you fill only one of the URL fields, the same image will be displayed on both themes. If you leave both fields empty, the image box will be automatically hidden in your calculator.
 
-Together with the Image, you can add an Image Description as well.
+Together with the Image, you can add an **Image Description** as well.
 
-Same as the Header and Footer, the Image Description can have one or multiple lines of text and you can also apply the same text styling that is available for the Header and Footer.
+Same as the Header and Footer, the Image Description can have one or multiple lines of text and you can also apply the same text styling that is available for the Header and Footer (`**bold**` `//italic//` `__underlined__`).
 
-Note: If you do not include an image, the image description will be automatically hidden, regardless of what you have written in it.
+*Note: If you do not include an image, the image description will be automatically hidden, regardless of what you have written in it.*
 
 If you include an image, but you leave the image description field empty, the image will take the full width of the page. Otherwise, if you write something in the image desciption, the image and it's description will be displayed in the same line, with the image taking around 60% and the description around 40% of the page width.
