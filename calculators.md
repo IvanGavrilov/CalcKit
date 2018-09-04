@@ -64,7 +64,7 @@ You can also apply some basic styling on the text *(as you can see on the image 
 CalcKit gives you the possibility to insert an **Image** in your calculator.  
 If included, the Image is displayed between the Header and the Variables.
 
-Because we do not host/store user files on our servers, you'll need to upload the **Image** somewhere else ([Imgur](https://imgur.com/upload)/[PostImage](https://postimages.org/)/...) and only type the URL pointing to the image.
+Because we do not host/store user files on our servers, you'll need to upload the **Image** somewhere else ([Imgur](https://imgur.com/upload) / [PostImage](https://postimages.org/)) and only type the URL pointing to the image.
 
 As you might know, CalcKit has two themes, light and dark, so if you are using a transparent image, you might want to include two versions of it. You can do that by filling the two fields: `Image URL Dark` for the dark theme and `Image URL Light` for the light theme.
 
