@@ -59,6 +59,8 @@ You can also apply some basic styling on the text *(as you can see on the image 
 
 ---
 
+![Image Description](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/image_description.png)
+
 CalcKit gives you the possibility to insert an **Image** in your calculator. If included, the Image is displayed between the Header and the Variables.
 
 Because we do not host/store user files on our servers, you'll need to upload the **Image** somewhere else ([Imgur](https://imgur.com/upload)/[PostImage](https://postimages.org/)/...) and only type the URL pointing to the image.
