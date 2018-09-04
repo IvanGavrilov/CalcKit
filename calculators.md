@@ -54,3 +54,9 @@ Both **Header** and **Footer** are optional fields. If you leave them empty, the
 Both fields can contain one or multiple lines of text.
 
 You can also apply some basic styling on the text *(as you can see on the image above)* making portions of it `**bold**`, `//italic//` or `__underlined__`, or also mixing them `**//__together__//**`.
+
+## Image / Image Description
+
+---
+
+...
