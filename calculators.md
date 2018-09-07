@@ -88,11 +88,19 @@ Each Variable contains four elements: **Identifier**, **Name**, **Equations** an
 
 #### Identifier
 
+...
+
 #### Name
+
+...
 
 #### Equations
 
+...
+
 #### Unit(s)
+
+...
 
 ## Options
 
