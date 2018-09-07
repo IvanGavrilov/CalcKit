@@ -86,7 +86,13 @@ If you include an image, but you leave the image description field empty, the im
 
 Each Variable contains four elements: **Identifier**, **Name**, **Equations** and **Unit(s)**.
 
-...
+### Identifier
+
+### Name
+
+### Equations
+
+### Unit(s)
 
 ## Options
 
