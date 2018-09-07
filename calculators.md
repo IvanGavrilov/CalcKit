@@ -82,6 +82,8 @@ If you include an image, but you leave the image description field empty, the im
 
 ---
 
+![Empty Variable](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/empty_variable.png)
+
 ...
 
 ## Options
