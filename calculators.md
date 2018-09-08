@@ -86,6 +86,8 @@ If you include an image, but you leave the image description field empty, the im
 
 Each Variable contains four elements: **Identifier**, **Name**, **Equations** and **Unit(s)**.
 
+All Calculators in CalcKit use a unique Circular Reference Algorithm, which allows each Variable to act as both Input and Output.
+
 #### Identifier
 
 The `Identifier` is basically a unique name/word that you'll use to reference this variable in other variables' equations.
@@ -100,7 +102,20 @@ The `Name` is a Label for the variable that you see on-screen when you use the C
 
 #### Equations
 
-...
+Each variable can have any number of equations. It might also have 0 equation in which case the variable is considered to be an input.
+
+In the **Equations** field you an put as many equations as you need to. Each equation needs to put on a new row.
+
+For example, in the [Length Converter](https://app.calckit.io/tool/275d4ed792437a21339c37e9d1dc25a1ebf51265#) you'll find the following equations for the `Meter` variable:
+```
+_mm * 0.001
+_cm * 0.01
+_km * 1000
+_in * 0.0254
+_ft * 0.3048
+_mi * 1609.344
+```
+where `_mm`, `_cm`, `_km`, `_in`, `_ft` and `_mi` are the Identifiers for `Millimeter`, `Centimeter`, `Kilometer`, `Feet` and `Mile` respectively.
 
 #### Unit(s)
 
