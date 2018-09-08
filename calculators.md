@@ -128,7 +128,7 @@ You can add a single unit that will be displayed as simple text, or you may add 
 To add a single unit as text, you just need to type it in the `Unit(s)` field.  
 Just make sure to type it on the first line and do not create a second line.
 
-To add a dropdown of multiple units, you need to put each unti on a new row.  
+To add a dropdown of multiple units, you need to put each unit on a new row.  
 You also need to include a **multipler** for each unit, so that CalcKit can calculate the value.
 
 Let's look at our [Electricity Cost Calculator](https://app.calckit.io/tool/e188d4b04d8cdd10885b5ffb1dc1646793b00533). There we have multiple variables that have dropdowns on the right side.
