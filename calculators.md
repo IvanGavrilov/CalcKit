@@ -88,11 +88,15 @@ Each Variable contains four elements: **Identifier**, **Name**, **Equations** an
 
 #### Identifier
 
-The `Identifier` is basically the name of the variable that you will use in the equations.
+The `Identifier` is basically a unique name/word that you'll use to reference this variable in other variables' equations.
+
+It must begin with a letter `a-z` `A-Z` or underscore `_`.
+
+It can contain letters `a-z` `A-Z`, numbers `0-9` and underscores `_`
 
 #### Name
 
-The `Name` is the actual Name or Label that you see on-screen when you use the Calculator.
+The `Name` is a Label for the variable that you see on-screen when you use the Calculator.
 
 #### Equations
 
