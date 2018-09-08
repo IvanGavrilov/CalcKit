@@ -102,7 +102,7 @@ The `Name` is a Label for the variable that you see on-screen when you use the C
 
 #### Equations
 
-Each variable can have any number of equations. It might also have 0 equation in which case the variable is considered to be an input.
+Each variable can have any number of equations. It might also have 0 equations in which case the variable is considered to be an input.
 
 In the **Equations** field you an put as many equations as you need to. Each equation needs to put on a new row.
 
