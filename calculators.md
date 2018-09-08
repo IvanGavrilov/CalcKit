@@ -104,7 +104,7 @@ The `Name` is a Label for the variable that you see on-screen when you use the C
 
 Each variable can have any number of equations. It might also have 0 equations in which case the variable is considered to be an input.
 
-In the **Equations** field you an put as many equations as you need to. Each equation needs to put on a new row.
+In the **Equations** field you can put as many equations as you need to. Each equation needs to put on a new row.
 
 For example, in the [Length Converter](https://app.calckit.io/tool/275d4ed792437a21339c37e9d1dc25a1ebf51265#) you'll find the following equations for the `Meter` variable:
 ```
