@@ -94,7 +94,7 @@ The `Identifier` is basically a unique name/word that you'll use to reference th
 
 It must begin with a letter `a-z` `A-Z` or underscore `_`.
 
-It can contain letters `a-z` `A-Z`, numbers `0-9` and underscores `_`
+It can contain letters `a-z` `A-Z`, numbers `0-9` and underscores `_`.
 
 #### Name
 
