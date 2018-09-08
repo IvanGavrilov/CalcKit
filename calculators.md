@@ -119,7 +119,33 @@ where `_mm`, `_cm`, `_km`, `_in`, `_ft` and `_mi` are the Identifiers for `Milli
 
 #### Unit(s)
 
-...
+The **Unit** appears on the right side of the variable's input field.
+
+It is not required. You can leave it completely empty, in which case, the input field will expand to the end of the line in the calculator.
+
+You can add a single unit that will be displayed as simple text, or you may add multiple units that will be displayed as dropdown menu when using the calculator.
+
+To add a single unit as text, you just need to type it in the `Unit(s)` field.  
+Just make sure to type it on the first line and do not create a second line.
+
+To add a dropdown of multiple units, you need to put each unti on a new row.  
+You also need to include a **multipler** for each unit, so that CalcKit can calculate the value.
+
+Let's look at our [Electricity Cost Calculator](https://app.calckit.io/tool/e188d4b04d8cdd10885b5ffb1dc1646793b00533). There we have multiple variables that have dropdowns on the right side.
+
+You can see that for the `Running time` variable, we have the dropdown with units: `Minutes`, `Hours`, `Days`, `Weeks` etc. To create it we use the following code in the `Unit(s)` field.
+```
+60 Minutes
+1 Hours
+0.0416666666666667 Days
+0.005952380952381 Weeks
+```
+Here, the `Hours` have a multiplier of `1`, so `Hours` is our base unit. That means when you select minutes, internally they are converted to hours and all equations for this variable are using the unit `Hours`.
+
+To calculate the Multipler for the other units we do the following:
+- **Minutes:** There are 60 minutes in one hour, so the multipler for minutes is `60`
+- **Days:** There are 24 hours in a day, so that is 1/24 days in one hour, which comes to `0.0416666666666667`
+- **Weeks:** There are 24\*7 hours in a week, so 1/(24\*7) weeks in one hour, which is `0.005952380952381`
 
 ## Options
 
