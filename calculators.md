@@ -84,7 +84,7 @@ If you include an image, but you leave the image description field empty, the im
 
 ![Empty Variable](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/empty_variable.png)
 
-Each Variable contains four elements: **Identifier**, **Name**, **Equations** and **Unit(s)**.
+The Calculators can contain any number of Variables, with each Variable having four elements: **Identifier**, **Name**, **Equations** and **Unit(s)**.
 
 All Calculators in CalcKit use a unique Circular Reference Algorithm, which allows each Variable to act as both Input and Output.
 
