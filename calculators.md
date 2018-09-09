@@ -153,4 +153,17 @@ To calculate the **multiplier** for the other units we do the following:
 
 ![Calculator Options](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/calculator_options.png)
 
+There are two extra **Options** that you can Enable for each of your calculators.
+
+#### Long Variable Names
+
+With this option enabled, each variable will spread on two lines.
+
+The `Name` of the variable will be put on the first line and will take the full width.  
+The Input Field and the `Unit(s)` will be displayed on the second line.
+
+This is useful when you have names for the variables that are longer than 2-3 words.
+
+#### Unit inside Input
+
 ...
