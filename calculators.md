@@ -151,4 +151,6 @@ To calculate the **multiplier** for the other units we do the following:
 
 ---
 
+![Calculator Options](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/calculator_options.png)
+
 ...
