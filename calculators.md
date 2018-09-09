@@ -166,4 +166,6 @@ This is useful when you have names for the variables that are longer than 2-3 wo
 
 #### Unit inside Input
 
-...
+When you have this option enabled, in all variables that have a single text unit, the `Unit` will be displayed as a placeholder for the input field and the input field will expand to the end of the line.
+
+This option will effect only the variables that have simple text unit, that means variables with multiple units (dropdown) will not be affected and will be displayed same as before enabling this option.
