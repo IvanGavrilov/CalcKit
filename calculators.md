@@ -13,7 +13,7 @@ title: "Calculators"
 
 Below I'll try to explain all components of the **calculators** and how to build them, with some examples.
 
-To create a new calculator, open the `My Tools` folder, click the `⋮` and then click [`Create New Calculator`](https://app.calckit.io/create/converter)
+To create a new calculator, open the `My Tools` folder, click the `⋮` and then click [`Create New Calculator`](https://app.calckit.io/create/calculator)
 
 # Components
 
