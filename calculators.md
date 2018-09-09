@@ -153,7 +153,7 @@ To calculate the **multiplier** for the other units we do the following:
 
 ![Calculator Options](https://raw.githubusercontent.com/IvanGavrilov/calckit/master/images/calculator_options.png)
 
-There are two extra **Options** that you can Enable for each of your calculators.
+At time of writing this, there are two extra **Options** that you can Enable for each of your calculators.
 
 #### Long Variable Names
 
